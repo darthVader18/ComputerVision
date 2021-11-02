@@ -1,0 +1,17 @@
+https://www.geeksforgeeks.org/color-spaces-in-opencv-python/
+https://www.asciitable.com/
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contours_begin/py_contours_begin.html
+https://www.youtube.com/watch?v=aircAruvnKk
+https://www.youtube.com/watch?v=IHZwWFHWa-w
+https://towardsdatascience.com/demystifying-optimizations-for-machine-learning-c6c6405d3eea
+http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+https://www.youtube.com/watch?v=4jRBRDbJemM
+https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af
+https://scikit-learn.org/stable/modules/cross_validation.html
+https://towardsdatascience.com/test-time-augmentation-tta-and-how-to-perform-it-with-keras-4ac19b67fb4d
+https://drive.google.com/file/d/1iSGHKWbxvsP1oAvHieEy6FqIxubWNas2/view
+https://gist.github.com/Shubhamai/1ba4f9aa7192e5eac869119f81ba17c9
+https://www.elementsofai.com/
+https://buildingai.elementsofai.com/Conclusion/your-ai-idea
+https://github.com/Shubhamai/plant-leaf-classification
+https://towardsdatascience.com/how-to-get-a-job-in-ai-with-no-experience-16526874165d
